@@ -1,0 +1,28 @@
+h3{
+    padding-top: 20px;
+    padding-left: 0px;
+    }
+div {
+    background-color: #f5f0f0;
+    margin: 40px 50px 30px 40px;
+    padding-left: 80px;
+    padding-bottom: 5px;
+    font-size: 30px;
+    font-family: Calibri;
+}
+
+.list5{
+    list-style: none url("../img/str_vpravo25.png.png");
+}
+.list1{
+    list-style: none url("../img/sneginka.png");
+}
+.list2{
+    list-style: none url("../img/cvet.png");
+}
+.list3{
+    list-style: none url("../img/arb.png");
+}
+.list4{
+    list-style: none url("../img/list.png");
+}
